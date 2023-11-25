@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-25T08:19:28.748Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="seCLjejEjZ2G1FfkwLLI" version="22.1.4" type="github">
+<mxfile modified="2023-11-25T08:28:37.602Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IybSKDu0eME2rlBbPO2d" version="22.1.4" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1013" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,19 +47,37 @@
           <mxGeometry x="220" y="692.3" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/fruit-136/64/Fruit_iconfree_Filled_Outline_raspberry-healthy-organic-food-fruit_icon-128.png" vertex="1" parent="1">
-          <mxGeometry x="327" y="493" width="54" height="54" as="geometry" />
+          <mxGeometry x="830" y="460" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="FhsTj9oqkJKDGmvPL3ci-16" value="R-Pi 4&lt;br&gt;192.168.10.20" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="505" width="60" height="30" as="geometry" />
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-16" value="R-Pi 4&lt;br&gt;192.168.10.40" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="472" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-17" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="540" y="464" width="50" height="41" as="geometry" />
+          <mxGeometry x="780" y="550" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="540" y="519" width="50" height="41" as="geometry" />
+          <mxGeometry x="785" y="605" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="540" y="570" width="50" height="41" as="geometry" />
+          <mxGeometry x="785" y="656" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-20" value="Portainer&lt;br&gt;http://192.168.10.40:9000/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="555.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-21" value="Unifi&amp;nbsp;&lt;br&gt;https://192.168.10.20:8443/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="605" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-22" value="Nextcloud&lt;br&gt;home.davisfamily.xyz&lt;br&gt;https://192.168.10.40:80" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-23" value="Nextcloud&lt;br&gt;https://home.davisfamily.xyz" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="901.6" y="661.5" width="53.4" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="785" y="706" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-25" value="Pihole&lt;br&gt;http://192.168.10.30/admin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="711.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

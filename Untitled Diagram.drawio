@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-25T08:28:37.602Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IybSKDu0eME2rlBbPO2d" version="22.1.4" type="github">
+<mxfile modified="2023-11-25T08:30:04.210Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZbOgMaw_Cj2B3K3XlYqI" version="22.1.4" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1013" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -67,9 +67,6 @@
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-21" value="Unifi&amp;nbsp;&lt;br&gt;https://192.168.10.20:8443/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="895" y="605" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FhsTj9oqkJKDGmvPL3ci-22" value="Nextcloud&lt;br&gt;home.davisfamily.xyz&lt;br&gt;https://192.168.10.40:80" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-23" value="Nextcloud&lt;br&gt;https://home.davisfamily.xyz" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="901.6" y="661.5" width="53.4" height="30" as="geometry" />
         </mxCell>
@@ -78,6 +75,12 @@
         </mxCell>
         <mxCell id="FhsTj9oqkJKDGmvPL3ci-25" value="Pihole&lt;br&gt;http://192.168.10.30/admin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="895" y="711.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-26" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.nas;" vertex="1" parent="1">
+          <mxGeometry x="652" y="472" width="28.000000000000004" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="FhsTj9oqkJKDGmvPL3ci-27" value="ReadyNAS&lt;br&gt;192.168.10.6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
